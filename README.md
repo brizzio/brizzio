@@ -1,17 +1,15 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">I'm Fabrizio</h1>
 
-<img src="https://raw.githubusercontent.com/berkeli/berkeli/main/assets/header.jpg" align="center" alt="berkeli header image">
+<img src="https://github.com/brizzio/brizzio/blob/main/header.jpg" align="center" alt="brizzio header image">
 
--------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
-&emsp;
 
--------------------
-&emsp;
+## Welcome to my GitHub space! 🚀 As a full-stack developer, I wield the power of both front-end finesse and back-end wizardry to craft digital realms where creativity meets functionality. Join me on this journey through lines of code, where innovation thrives. 
+
+# Let's build the future, one commit at a time. 💻✨
+
 
 - 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
 - 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
@@ -21,10 +19,6 @@
 - 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
 
 
-### :smiley_cat: I am a student at SMK Telkom Malang
-
-### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -40,9 +34,9 @@ Some things about me :<br/>
 :nine: Fun fact : Have been developing softwares for most part of my life
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+![Brizzio github stats](https://github-readme-stats.vercel.app/api?username=brizzio&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=brizzio&theme=tokyonight" alt="mystreak"/>
+![Brizzio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzio&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
 
