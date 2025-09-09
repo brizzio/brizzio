@@ -1,84 +1,34 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<h1 align="center">I'm Fabrizio</h1>
+<h1 align="center">Hello There!
+✋🏻
+I'm Fabrizio!
+</h1>
 
 <img src="https://github.com/brizzio/brizzio/blob/main/header.jpg" align="center" alt="brizzio header image">
 
 
 ## Welcome to my GitHub space! 🚀 As a full-stack developer, I wield the power of both front-end finesse and back-end wizardry to craft digital realms where creativity meets functionality. Join me on this journey through lines of code, where innovation thrives. 
-
+<br/><br/>
 # Let's build the future, one commit at a time. 💻✨
 
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
+- ### I’m currently working on pricing system for a fund manager [MEZZUS CAPITAL](https://mezzus.com.br/). <img src="https://unpkg.com/heroicons@2.1.5/24/outline/currency-dollar.svg" width="30"> 
+- ### I'm also upgrading the billing system for anesthesiologist teams using automation with artificial intelligence for the [AMD](https://www.amdanestesia.com.br/). <img src="https://unpkg.com/lucide-static@latest/icons/stethoscope.svg" width="30">
+- ### I’m currently learning LLMs, MCP, n8n, Observability & Monitoring of Distributed Systems, Event Driven Systems
+- ### Ask me about DEPLOY, MONETIZATION, SQL/NoSQL DATABASES, WEBHOOKS, SCRUM
 
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
+<br/><br/>
 
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+## Some things about me :<br/>
+#### :one: Programming Language developer<br/>
+#### :two: Full stack developer and IT professional with over 20 years of experience.<br/>
+#### :three: Proficient with PHP, JavaScript, CSS and Python.<br/> 
+#### :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
+#### :five: Proficient as PROJECT MANAGER and SCRUM MASTER<br/> 
+#### :six: Looking for funds to complete my IA COSTUMER SERVICE SYSTEM.<br/>
+#### :seven: How to reach me :[<img src="https://unpkg.com/heroicons@2.1.5/24/outline/envelope.svg" width="20"> Email Me](mailto:fabrizio.salvade@gmail.com)<br/>
+#### :eight: Ask me anything related to programming...<br/> 
+#### :nine: Fun fact : Have been developing softwares for most part of my life
 
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-Some things about me :<br/>
-:one: Programming language developer<br/>
-:two: Full stack developer and IT professional with over 10 years of experience.<br/>
-:three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
-:four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
-:five: I’m currently working on the <a href="https://github.com/One-Language">ONE Programming Language</a><br/> 
-:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
-:seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
-:eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
-:nine: Fun fact : Have been developing softwares for most part of my life
-
-## By the way here are some of my statistics 🚀
-![Brizzio github stats](https://github-readme-stats.vercel.app/api?username=brizzio&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brizzio&theme=tokyonight" alt="mystreak"/>
-![Brizzio's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brizzio&theme=tokyonight&layout=compact)
-
-🌱 I’m currently learning android in dicoding.com with kotlin
-
-
-&emsp;
-
-## Currently Building stuff with
-
-| <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/aws.png" width=60 alt="aws icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/serverless.png" width=60 alt="serverless icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/typescript.png" width=60 alt="typescript icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/nodejs.png" width=60 alt="nodejs icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/hasura.png" width=60 alt="hasura icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/azure.png" width=60 alt="azure icon"> | <img src="https://raw.githubusercontent.com/vishwasnavadak/vishwasnavadak/master/img/gcp.png" width=60 alt="gcp icon"> |
-| :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-
-
-
-## Me around the web:
--------------------
-
-
-&emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
-</a>
-<a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/berkeli">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
-</a>
 
 &emsp;
 
@@ -156,7 +106,7 @@ Some things about me :<br/>
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+ [![fabrizio.salvade@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](fabrizio.salvade@gmail.com)
 
 <br>
 
@@ -174,30 +124,6 @@ Some things about me :<br/>
 
 <br>
 
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
-------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
-
-Last Edited on: 21/08/2021
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
