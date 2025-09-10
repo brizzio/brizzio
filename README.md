@@ -1,12 +1,8 @@
-<h1 align="center">Hello There!
-✋🏻
-I'm Fabrizio!
-</h1>
 
 <img src="https://github.com/brizzio/brizzio/blob/main/header.jpg" align="center" alt="brizzio header image">
 
-
-## Welcome to my GitHub space! 🚀 As a full-stack developer, I wield the power of both front-end finesse and back-end wizardry to craft digital realms where creativity meets functionality. Join me on this journey through lines of code, where innovation thrives. 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+## Hello There!✋🏻Welcome to my GitHub space! 🚀 As a full-stack developer, I wield the power of both front-end finesse and back-end wizardry to craft digital realms where creativity meets functionality. Join me on this journey through lines of code, where innovation thrives. 
 <br/><br/>
 # Let's build the future, one commit at a time. 💻✨
 
@@ -29,11 +25,8 @@ I'm Fabrizio!
 #### :eight: Ask me anything related to programming...<br/> 
 #### :nine: Fun fact : Have been developing softwares for most part of my life
 
-
 &emsp;
 
-## 🛠️ My Skills
--------------------
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -97,10 +90,16 @@ I'm Fabrizio!
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
+### 🗣️ Communication Skills
+
+- 🌏 **Intercultural communication** – skilled in collaborating with diverse, global teams  
+- 👂 **Active listening** – developed in team leader roles, promoting alignment and engagement  
+- 🏆 **Team leadership** – coordinating and motivating teams for consistent results  
+- ✍️ **Clear and concise writing** – producing precise technical documentation and reports  
+- 🎤 **Storytelling and public speaking** – conveying complex information in an accessible, persuasive way  
+- 💡 **Empathy and collaboration** – building trustful relationships and improving team dynamics 
 
 ## Connect with me ☕ :
 
