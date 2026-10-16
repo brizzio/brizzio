@@ -1,32 +1,56 @@
 
-<img src="https://github.com/brizzio/brizzio/blob/main/header.jpg" align="center" alt="brizzio header image">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-## Hello There!✋🏻Welcome to my GitHub space! 🚀 As a full-stack developer, I wield the power of both front-end finesse and back-end wizardry to craft digital realms where creativity meets functionality. Join me on this journey through lines of code, where innovation thrives.
+# Olá, eu sou o Fabrizio Salvade! 👋
 
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-View-blue?style=for-the-badge&logo=readthedocs)](https://brizzio.github.io/fabrizio-salvade-cv/)
+<p align="left">
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Project-Manager-green?style=flat-square&logo=trello" />
+  <img src="https://img.shields.io/badge/Experience-20%25%20Years-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-São_Paulo%2C_Brazil-lightgrey?style=flat-square&logo=google-maps" />
+</p>
 
-# Let's build the future, one commit at a time. 💻✨
+Sou **Engenheiro de Software e Gerente de Projetos** com mais de 20 anos de experiência criando sistemas escaláveis e liderando equipes de alta performance nos setores de varejo, saúde, finanças e tecnologia. Minha paixão é unir sólidas competências técnicas com gestão estratégica para transformar desafios complexos em impacto real para os negócios.
 
-- ### I’m currently working on pricing system for a fund manager [MEZZUS CAPITAL](https://mezzus.com.br/). <img src="https://unpkg.com/heroicons@2.1.5/24/outline/currency-dollar.svg" width="30"> 
-- ### I'm also upgrading the billing system for anesthesiologist teams using automation with artificial intelligence for the [AMD](https://www.amdanestesia.com.br/). <img src="https://unpkg.com/lucide-static@latest/icons/stethoscope.svg" width="30">
-- ### I’m currently learning LLMs, MCP, n8n, Observability & Monitoring of Distributed Systems, Event Driven Systems
-- ### Ask me about DEPLOY, MONETIZATION, SQL/NoSQL DATABASES, WEBHOOKS, SCRUM
+---
 
-<br/>
+[![Download CV](https://img.shields.io/badge/📄_Baixar_Meu_CV-PDF-blue?style=for-the-badge)](./curriculo.pdf)
 
-## Some things about me :<br/>
-#### :one: Programming Language developer<br/>
-#### :two: Full stack developer and IT professional with over 20 years of experience.<br/>
-#### :three: Proficient with PHP, JavaScript, CSS and Python.<br/> 
-#### :four: Have mastered many areas of programming like Web Development and server-side programming.<br/>
-#### :five: Proficient as PROJECT MANAGER and SCRUM MASTER<br/> 
-#### :six: Looking for funds to complete my IA COSTUMER SERVICE SYSTEM.<br/>
-#### :seven: How to reach me :[<img src="https://unpkg.com/heroicons@2.1.5/24/outline/envelope.svg" width="20"> Email Me](mailto:fabrizio.salvade@gmail.com)<br/>
-#### :eight: Ask me anything related to programming...<br/> 
-#### :nine: Fun fact : Have been developing softwares for most part of my life
+## 🚀 Sobre Mim
 
-&emsp;
+- 💡 **Foco Atual:** Arquitetura de Soluções, Desenvolvimento Full Stack, Automação e Inteligência Artificial aplicada à previsão de dados e otimização de performance.
+- 📈 **Resultados de Destaque:** Criação de sistemas de precificação baseados em redes neurais que aumentaram a margem operacional no varejo (3 a 5 pontos percentuais) e soluções otimizadas para redução de custos operacionais.
+- 🤝 **Liderança:** Condução de equipes multidisciplinares e híbridas com entregas robustas em prazos desafiadores (90 a 180 dias).
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Core** | JavaScript, PHP, SQL |
+| **Frontend** | React, HTML5, CSS3 |
+| **Backend & Arquitetura** | Node.js, Firebase, APIs REST, Microsserviços, Edge Computing |
+| **Gestão & Metodologias** | Gestão de Projetos, Alinhamento de Stakeholders, Liderança de Equipes |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=brizzio&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizzio&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Vamos Conectar?
+
+- 💼 **LinkedIn:** [fabrizio-salvade-1aa63913](https://www.linkedin.com/in/fabrizio-salvade-1aa63913)[cite: 1.3_2]
+- 📧 **E-mail:** [fabrizio.salvade@gmail.com](mailto:fabrizio.salvade@gmail.com)[cite: 1.3_2]
+- 📱 **Telefone:** +55 (11) 94985-5614[cite: 1.3_2]
+
+---
+<p align="center"><i>"Transformo tecnologia e gestão em impacto real para o negócio."</i> 🚀</p>
 
 ### Programming languages:
 &emsp;
@@ -93,37 +117,15 @@
 
 
 
-### 🗣️ Communication Skills
+### 🗣️ Habilidades de Comunicação
 
-- 🌏 **Intercultural communication** – skilled in collaborating with diverse, global teams  
-- 👂 **Active listening** – developed in team leader roles, promoting alignment and engagement  
-- 🏆 **Team leadership** – coordinating and motivating teams for consistent results  
-- ✍️ **Clear and concise writing** – producing precise technical documentation and reports  
-- 🎤 **Storytelling and public speaking** – conveying complex information in an accessible, persuasive way  
-- 💡 **Empathy and collaboration** – building trustful relationships and improving team dynamics 
+- 🌏 **Comunicação Intercultural** – Habilidade para colaborar de forma fluida com equipes diversas e globais.
+- 👂 **Escuta Ativa** – Aprimorada em papéis de liderança, promovendo alinhamento, engajamento e clareza.
+- 🏆 **Liderança de Equipes** – Capacidade de coordenar e motivar times para a entrega consistente de resultados.
+- ✍️ **Escrita Clara e Concisa** – Produção de documentação técnica e relatórios precisos e estruturados.
+- 🎤 **Storytelling e Oratória** – Facilidade em transmitir informações complexas de forma acessível, dinâmica e persuasiva.
+- 💡 **Empatia e Colaboração** – Construção de relacionamentos de confiança para fortalecer a dinâmica e a sinergia da equipe.
 
-## Connect with me ☕ :
 
-<br>
 
- [![fabrizio.salvade@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](fabrizio.salvade@gmail.com)
-
-<br>
-
-## What I am Good at 🧑‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
