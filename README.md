@@ -45,9 +45,9 @@ Sou **Engenheiro de Software e Gerente de Projetos** com mais de 20 anos de expe
 
 ## 📬 Vamos Conectar?
 
-- 💼 **LinkedIn:** [fabrizio-salvade-1aa63913](https://www.linkedin.com/in/fabrizio-salvade-1aa63913)[cite: 1.3_2]
-- 📧 **E-mail:** [fabrizio.salvade@gmail.com](mailto:fabrizio.salvade@gmail.com)[cite: 1.3_2]
-- 📱 **Telefone:** +55 (11) 94985-5614[cite: 1.3_2]
+- 💼 **LinkedIn:** [fabrizio-salvade](www.linkedin.com/in/fabrizio-salvade)
+- 📧 **E-mail:** [fabrizio.salvade@gmail.com](mailto:fabrizio.salvade@gmail.com)
+- 📱 **Telefone:** +55 (11) 94985-5614
 
 ---
 <p align="center"><i>"Transformo tecnologia e gestão em impacto real para o negócio."</i> 🚀</p>
