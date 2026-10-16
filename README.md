@@ -13,7 +13,7 @@ Sou **Engenheiro de Software e Gerente de Projetos** com mais de 20 anos de expe
 
 ---
 
-[![Download CV](https://img.shields.io/badge/📄_Baixar_Meu_CV-PDF-blue?style=for-the-badge)](./CV_FABRIZIO_SALVADE_2026.pdf)
+[![Download CV](https://img.shields.io/badge/📄_Baixar_Meu_CV-PDF-blue?style=for-the-badge)](https://github.com/brizzio/brizzio/raw/main/CV_FABRIZIO_SALVADE_2026.pdf)
 
 ## 🚀 Sobre Mim
 
@@ -45,7 +45,7 @@ Sou **Engenheiro de Software e Gerente de Projetos** com mais de 20 anos de expe
 
 ## 📬 Vamos Conectar?
 
-- 💼 **LinkedIn:** [fabrizio-salvade](www.linkedin.com/in/fabrizio-salvade)
+- 💼 **LinkedIn:** [fabrizio-salvade](https://www.linkedin.com/in/fabrizio-salvade)
 - 📧 **E-mail:** [fabrizio.salvade@gmail.com](mailto:fabrizio.salvade@gmail.com)
 - 📱 **Telefone:** +55 (11) 94985-5614
 
