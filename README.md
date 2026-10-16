@@ -13,7 +13,7 @@ Sou **Engenheiro de Software e Gerente de Projetos** com mais de 20 anos de expe
 
 ---
 
-[![Download CV](https://img.shields.io/badge/📄_Baixar_Meu_CV-PDF-blue?style=for-the-badge)](./curriculo.pdf)
+[![Download CV](https://img.shields.io/badge/📄_Baixar_Meu_CV-PDF-blue?style=for-the-badge)](./CV_FABRIZIO_SALVADE_2026.pdf)
 
 ## 🚀 Sobre Mim
 
